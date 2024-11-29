@@ -2,7 +2,7 @@ TERMINAL COMMANDS:
 
 ( pwd ) - check current location 
 
-( ls ) - show what is in the folder 
+( ls ) - show folder content
 
 ( cd ) - move to <folder_name> 
 
@@ -64,6 +64,7 @@ Add repository to GitHub:
 
 
 Working with Git branches:
+
 ( git branch ) - check current branch 
 
 ( git branch <new_branch> ) - create new branch 
